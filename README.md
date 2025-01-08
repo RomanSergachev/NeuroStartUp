@@ -1,5 +1,3 @@
-123
+![alt text][def]
 
-456
-
-789\
+[def]: image.png
