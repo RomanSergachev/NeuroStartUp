@@ -1,3 +1,10 @@
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NeuroStartUp</title>
+    <link rel="stylesheet" href="styles.css">
+
+
+
 ![alt text](logo.png)
 
 NeuroStartUp — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта. Наши преимущества:
